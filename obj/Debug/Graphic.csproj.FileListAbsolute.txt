@@ -1,0 +1,9 @@
+c:\users\matei\documents\visual studio 2013\Projects\Graphic\Graphic\bin\Debug\Graphic.exe.config
+c:\users\matei\documents\visual studio 2013\Projects\Graphic\Graphic\bin\Debug\Graphic.exe
+c:\users\matei\documents\visual studio 2013\Projects\Graphic\Graphic\bin\Debug\Graphic.pdb
+c:\users\matei\documents\visual studio 2013\Projects\Graphic\Graphic\obj\Debug\Graphic.csprojResolveAssemblyReference.cache
+c:\users\matei\documents\visual studio 2013\Projects\Graphic\Graphic\obj\Debug\Graphic.GraficForm.resources
+c:\users\matei\documents\visual studio 2013\Projects\Graphic\Graphic\obj\Debug\Graphic.Properties.Resources.resources
+c:\users\matei\documents\visual studio 2013\Projects\Graphic\Graphic\obj\Debug\Graphic.csproj.GenerateResource.Cache
+c:\users\matei\documents\visual studio 2013\Projects\Graphic\Graphic\obj\Debug\Graphic.exe
+c:\users\matei\documents\visual studio 2013\Projects\Graphic\Graphic\obj\Debug\Graphic.pdb
